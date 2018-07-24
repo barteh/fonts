@@ -4,6 +4,7 @@
   "description": "all fonts need for barteh based projects",
   "main": "index.js",
   "scripts": {
+    "up": "npm publish --access public --scope=barteh",
     "test": "echo notest"
   },
   "repository": {
