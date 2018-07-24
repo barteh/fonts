@@ -1,0 +1,24 @@
+{
+  "name": "@barteh/fonts",
+  "version": "1.0.0",
+  "description": "all fonts need for barteh based projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo notest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barteh/fonts.git"
+  },
+  "keywords": [
+    "barte",
+    "barteh-fonts",
+    "@barteh/fonts"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barteh/fonts/issues"
+  },
+  "homepage": "https://github.com/barteh/fonts#readme"
+}

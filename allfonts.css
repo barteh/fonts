@@ -1,0 +1,55 @@
+﻿@font-face {
+    font-family: 'Blotus';
+    /*src: local('BKoodakBold');*/
+    src: url('../fonts/BLotus.eot');
+    src: url('../fonts/BLotus.eot?#') format('eot'), url('../fonts/BLotus.ttf') format('truetype'), url('../fonts/BLotus.woff') format('woff');
+
+}
+
+
+@font-face {
+    font-family: 'BKoodakBold';
+    src: local('BKoodakBold');
+    src: url('../fonts/BKoodakBold.eot');
+    src: url('../fonts/BKoodakBold.eot?#') format('eot'), url('../fonts/BKoodakBold.ttf') format('truetype'), url('../fonts/BKoodakBold.woff') format('woff');
+
+}
+
+@font-face {
+    font-family: 'BTitrBold';
+    src: local('BTitrBold');
+    src: url('../fonts/BTitrBold.eot');
+    src: url('../fonts/BTitrBold.eot?#') format('eot'), url('../fonts/BTitrBold.ttf') format('truetype'), url('../fonts/BTitrBold.woff') format('woff');
+
+}
+
+
+@font-face {
+    font-family: 'byekan';
+    src: local('byekan');
+    src: url('../fonts/byekan.eot');
+    src: url('../fonts/byekan.eot?#') format('eot'), url('../fonts/byekan.ttf') format('truetype'), url('../fonts/byekan.woff') format('woff');
+
+}
+
+
+@font-face {
+    font-family: 'b_nazanin_black';
+    src: local('BKoodakBold');
+    src: url('../fonts/B_Nazanin_Black.ttf') format('truetype'), url('../fonts/B_Nazanin_Black.woff') format('woff');
+
+}
+
+@font-face {
+    font-family: 'b_nazanin_regular';
+    src: local('BKoodakBold');
+    src: url('../fonts/B_Nazanin_Regular.ttf') format('truetype'), url('../fonts/B_Nazanin_Regular.woff') format('woff');
+
+}
+
+@font-face {
+    font-family: 'b_nazanin_bold';
+    src: local('BKoodakBold');
+    src: url('../fonts/B_Nazanin_Bold.ttf') format('truetype'), url('../fonts/B_Nazanin_Bold.woff') format('woff');
+
+}
