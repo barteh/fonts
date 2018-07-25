@@ -1,14 +1,14 @@
 /*@font-face {
     font-family: 'barteh_misfont';
     src: local('barteh_misfont');
-    src: url('../fonts/barteh_misfont.eot');
-    src: url('../fonts/barteh_misfont.eot?#') format('eot'), url('../fonts/barteh_misfont.ttf') format('truetype'), url('../fonts/barteh_misfont.woff') format('woff');
+    src: url('./fonts/barteh_misfont.eot');
+    src: url('./fonts/barteh_misfont.eot?#') format('eot'), url('./fonts/barteh_misfont.ttf') format('truetype'), url('./fonts/barteh_misfont.woff') format('woff');
 }*/
 @font-face {
     font-family: 'barteh_misfont';
     src: local('barteh_misfont');
-    src: url('../fonts/barteh_misfont.woff');
-   /* src: url('../fonts/barteh_misfont.ttf');*/
+    src: url('./fonts/barteh_misfont.woff');
+   /* src: url('./fonts/barteh_misfont.ttf');*/
     
 }
 
